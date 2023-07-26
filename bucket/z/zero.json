@@ -6,12 +6,12 @@
         "logo:https://consolo.is.cc/images/emuDownloadCenter/hooks/zero/emulator_logo.jpg",
         "screenshot:https://consolo.is.cc/images/emuDownloadCenter/hooks/zero/emulator_screen_01.jpg"
     ],
-    "version": "0.8",
+    "version": "0.7.1",
     "description": "Zero is a Sinclair ZX Spectrum and Pentagon 128K emulator.",
     "homepage": "http://zero.arjunnair.in/",
     "license": "Freeware",
-    "url": "https://github.com/ArjunNair/Zero-Emulator/releases/download/v0.8/Zero.0.8.zip",
-    "hash": "0598b7a245f5b8a926611a264ccbe387904891d87ced76408d3f23f9a2be6038",
+    "url": "https://github.com/ArjunNair/Zero-Emulator/releases/download/v0.7.1/Zero.0.7.1.zip",
+    "hash": "9118eb172faccef11006dc07114857b21934ba509e0a577ea296e44a229a91c3",
     "bin": "Zero.exe",
     "checkver": {
         "github": "https://github.com/ArjunNair/Zero-Emulator"
